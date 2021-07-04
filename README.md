@@ -28,8 +28,6 @@ This code also considers that both planets start from angle 0. This may not alwa
 Some of the plots:
 <br><br>
 
-<p style="text-align: center;">
-
 <img src="./half.png">
 half a plot for testing
 <br><br><br>
